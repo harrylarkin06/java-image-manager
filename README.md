@@ -27,13 +27,13 @@ You can add images, search the collection in several ways, and view results as d
 
 ## Screenshots
 
-### Displaying images
+### Displaying Images (Using custom console-based UI)
 
 ![Displaying all images](docs/Displaying_Images.png)
 
 The **Display All** option lists every image in the collection, showing each thumbnail alongside its ID, title, description, genre, date taken and filename.
 
-### Searching for images
+### Searching for images (Using custom console-based UI)
 
 <table>
   <tr>
