@@ -8,12 +8,12 @@ You can add images, search the collection in several ways, and view results as d
 
 - Add images (title, description, genre, date taken, thumbnail)
 - Search by ID, title, description, genre or date range
-- Display all images in a formatted list
+- Display all images
 - Results grouped into albums, sorted by date, and navigable forwards and backwards
 - Sample data preloaded on startup
 - Two interfaces over the same core code:
   - **QUBImages**: text menu application (Part 1)
-  - **QUBMediaImages**: enhanced console UI with images, fonts and colour (Part 2)
+  - **QUBMediaImages**: enhanced console UI with images, fonts and colour (Part 2) (Requires .jar, which is not included)
 
 ## Core classes
 
