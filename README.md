@@ -45,9 +45,6 @@ The **Display All** option lists every image in the collection, showing each thu
 
 The search menu offers five ways to look up an image: ID, title, description, type or date range. Here, searching by ID with `6` returns the matching record, displayed with its thumbnail and full details.
 
-<!-- Add a couple of screenshots, e.g. the menu, a search result, and the Part 2 UI.
-![Part 2 menu](docs/menu.png) -->
-
 ## Notes
 
 - Built using core Java only (`Scanner`, `LocalDate`, limited `ArrayList`), as required by the assignment.
