@@ -27,6 +27,24 @@ You can add images, search the collection in several ways, and view results as d
 
 ## Screenshots
 
+### Displaying images
+
+![Displaying all images](docs/Displaying_Images.png)
+
+The **Display All** option lists every image in the collection, showing each thumbnail alongside its ID, title, description, genre, date taken and filename.
+
+### Searching for images
+
+<table>
+  <tr>
+    <td width="45%"><img src="docs/Searching_for_Images_1.png" alt="Search menu"></td>
+    <td width="5%" align="center"><b>&rarr;</b></td>
+    <td width="50%"><img src="docs/Searching_for_Images_2.png" alt="Search result"></td>
+  </tr>
+</table>
+
+The search menu offers five ways to look up an image: ID, title, description, type or date range. Here, searching by ID with `6` returns the matching record, displayed with its thumbnail and full details.
+
 <!-- Add a couple of screenshots, e.g. the menu, a search result, and the Part 2 UI.
 ![Part 2 menu](docs/menu.png) -->
 
